@@ -1,0 +1,28 @@
+{
+  "name": "ng-karma-jasmin",
+  "version": "1.0.0",
+  "description": "basic example of angular karma jasmin test",
+  "main": "server.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "keywords": [
+    "karma",
+    "jasmin",
+    "angular"
+  ],
+  "author": "Niranjan Gaikwad",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.5",
+    "jasmine": "^2.6.0",
+    "karma": "^1.7.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-cli": "^1.0.1",
+    "karma-chrome-launcher": "^2.2.0"
+  }
+}
