@@ -1,1 +1,1 @@
-# angular-jasmine-karma
+# AngularJS, Jasmine, Karma Example
